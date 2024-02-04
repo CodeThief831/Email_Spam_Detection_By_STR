@@ -1,5 +1,3 @@
-# Email_Spam_Detection_By_STR
-
 # Spam Email Detection
 
 ## Introduction
